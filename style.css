@@ -1,0 +1,25 @@
+body{
+    background:#BBE9FF;
+    margin: 0;
+    color: #1A2130;
+}
+
+h1{
+    text-align: center;
+}
+.formcontainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+form{
+    background-color:#FFE9D0;
+    color: #1A2130;
+    border: 3px solid #B1AFFF;
+    margin: 20px 0px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
